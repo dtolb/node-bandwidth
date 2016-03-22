@@ -1,0 +1,5 @@
+dir: lib
+packageJson: package.json
+branches:
+ - 2.0-preview
+ - update_docs
